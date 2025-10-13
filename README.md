@@ -7,7 +7,7 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 ### 💼 Sobre Mim
 - 🎯 **Objetivo**: Atuar na área de desenvolvimento fullstack e/ou na área de análise de sistemas.
 - 📍 **Localização**: Belo Horizonte - MG
-- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades com JavaScript, TypeScript, Node, Express, noSQL, React, Hooks, Redux, Design Patterns.
+- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades com JavaScript, TypeScript, Node, Express, noSQL, React, Design Patterns.
 - 💬 **Fato curioso**: Eu sou apaixonada por jogos e tenho o sonho de ser desenvolvedora de jogos.
 
 ---
@@ -41,7 +41,7 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 ---
 
 ### 📘 Formação Acadêmica
-- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 6º período, conclusão prevista para dezembro de 2025
+- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 8º período, conclusão prevista para dezembro de 2026
 
 ---
 
