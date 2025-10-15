@@ -61,14 +61,14 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 - **[Nome do Projeto 1](https://github.com/seu-usuario/projeto-1):** Descrição do projeto e o que ele faz.
 - **[Nome do Projeto 2](https://github.com/seu-usuario/projeto-2):** Outro projeto relevante com descrição.
 - **[Nome do Projeto 3](https://github.com/seu-usuario/projeto-3):** Explicação do projeto e tecnologias envolvidas.
--->
 
 ---
+-->
 
 ### 📊 Minhas Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabOof&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabOof&layout=compact&theme=dracula)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabOof&show_icons=true&theme=transparent&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabOof&layout=compact&theme=transparent)
 
 ---
 
