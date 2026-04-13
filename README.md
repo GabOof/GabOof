@@ -1,13 +1,13 @@
 # Olá! 👋 Bem-vindo ao meu perfil
 
-Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e apaixonada por solucionar problemas e criar novas soluções.
+Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e apaixonada por solucionar problemas e criar novas soluções com foco total na experiência do usuário.
 
 ---
 
 ### 💼 Sobre Mim
 - 🎯 **Objetivo**: Atuar na área de desenvolvimento fullstack e/ou na área de análise de sistemas.
 - 📍 **Localização**: Belo Horizonte - MG
-- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades com JavaScript, TypeScript, Node, Express, noSQL, React, Design Patterns.
+- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades com JavaScript, TypeScript, Node, Express, noSQL, React, Design Patterns e IHC.
 - 💬 **Fato curioso**: Eu sou apaixonada por jogos e tenho o sonho de ser desenvolvedora de jogos.
 
 ---
@@ -41,7 +41,7 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 ---
 
 ### 📘 Formação Acadêmica
-- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 8º período, conclusão prevista para dezembro de 2026
+- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 9º período, conclusão prevista para julho de 2027
 
 ---
 
@@ -57,15 +57,23 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 
 ### 📊 Minhas Estatísticas GitHub
 
-![GabOof streak badge](https://github-readme-streak-stats.herokuapp.com?user=GabOof&theme=transparent&hide_border=true)
+<div align="center">
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabOof&theme=transparent"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabOof&theme=transparent"/>
+</div>
 
-![Trophies](https://github-trophies.vercel.app/?username=GabOof&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia&row=2&column=3)
+</br>
 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabOof&theme=transparent)
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabOof&theme=transparent"/>
+</div>
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabOof&theme=transparent)
+</br>
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabOof&theme=transparent)
+<div align="center">
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=GabOof&theme=transparent&hide_border=true"/>
+    <img height="200em" src="https://github-trophies.vercel.app/?username=GabOof&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia&row=2&column=3"/>
+</div>
 
 ---
 
