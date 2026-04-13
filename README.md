@@ -57,8 +57,15 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 
 ### 📊 Minhas Estatísticas GitHub
 
-![Estatísticas GitHub](https://github-readme-stats-gilt-xi-18.vercel.app/api?username=GabOof&show_icons=true&theme=transparent&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&v=1)
-![Linguagens mais usadas](https://github-readme-stats-gilt-xi-18.vercel.app/api/top-langs/?username=GabOof&layout=compact&theme=transparent&v=1)
+![GabOof streak badge](https://github-readme-streak-stats.herokuapp.com?user=GabOof&theme=transparent&hide_border=true)
+
+![Trophies](https://github-trophies.vercel.app/?username=GabOof&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia&row=2&column=3)
+
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabOof&theme=transparent)
+
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabOof&theme=transparent)
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabOof&theme=transparent)
 
 ---
 
