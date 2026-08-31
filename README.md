@@ -41,7 +41,7 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 ---
 
 ### 📘 Formação Acadêmica
-- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 9º período, conclusão prevista para julho de 2027
+- **Sistemas de Informação** - Instituto Federal de Minas Gerais Campus Ouro Branco (IFMG-OB) - 8º período, conclusão prevista para julho de 2027
 
 ---
 
