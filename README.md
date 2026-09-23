@@ -46,10 +46,16 @@ Eu sou Gabrielle de Oliveira Fonseca, desenvolvedora fullstack em formação e a
 ---
 
 ### 📜 Cursos Complementares
-- API Restful JavaScript com Node.js, TypeScript, TypeORM – Udemy, 2024
+- Curso de Eletrônica Eletricidade Básica [100% Iniciante] - Udemy, 2026
 - Clean Code – Udemy, 2024
+- API Restful JavaScript com Node.js, TypeScript, TypeORM – Udemy, 2024
+- JavaScript, HTML e CSS para Iniciantes - Udemy, 2023
 - Entendendo TypeScript – Udemy, 2023
 - JavaScript: algoritmos + estrutura de dados – Udemy, 2023
+- Aprenda JAVASCRIPT em 7 dias + Projetos Reais (2023) - Udemy, 2023
+- GitHub Copilot: Use AI to write code for you! (Copilot 2023) - Udemy, 2023
+- NPM da instalação a publicação (Node Package Manager) - Udemy, 2023
+- Git Completo: Do Básico ao Avançado - Udemy, 2023
 - Arquitetura de computadores – Alura, 2023
 - Lógica de programação com JavaScript – Alura, 2022
 
